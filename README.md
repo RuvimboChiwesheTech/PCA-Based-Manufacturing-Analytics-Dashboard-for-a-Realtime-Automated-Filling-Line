@@ -41,8 +41,8 @@ Browse cleaned process data, inspect variables, and understand the dataset struc
 - `data/` contains raw and processed datasets
 
 - ## Visual Representation of Key Features
-<img width="720" height="312" alt="Image" src="https://github.com/user-attachments/assets/7d9fbb7f-258f-44cc-8a7d-81cc16b4a329" />
 <img width="707" height="369" alt="Image" src="https://github.com/user-attachments/assets/b5fb055d-fabf-40d9-b663-d133a4daea25" />
+<img width="720" height="312" alt="Image" src="https://github.com/user-attachments/assets/7d9fbb7f-258f-44cc-8a7d-81cc16b4a329" />
 <img width="711" height="382" alt="Image" src="https://github.com/user-attachments/assets/c36eef93-d449-4097-82a6-7ae87a9ed61b" />
 <!-- Uploading "pca_score_plot.PNG"... -->
 <img width="703" height="378" alt="Image" src="https://github.com/user-attachments/assets/b5efcb45-9eee-40b2-b618-bed503f93f93" />
