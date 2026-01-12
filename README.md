@@ -7,6 +7,8 @@ All data in this repository is anonymised and modified to protect confidentialit
 ## Project Overview
 Modern automated filling lines generate large volumes of sensor and process data. Traditional univariate control charts often fail to capture the complex, multivariate relationships that drive process behaviour.
 
+📄 **Project Proposal:** [View proposal](proposal.pdf)
+
 This project uses:
 
 - PCA to reduce dimensionality  
