@@ -78,7 +78,7 @@ cd PCA-Based-Manufacturing-Analytics-Dashboard-for-a-Realtime-Automated-Filling-
 pip install -r requirements.txt
 
 ### 3. Launch the Streamlit app
-streamlit run app/app.py
+streamlit run app.py
 
 ## Data Processing & PCA Modelling
 
